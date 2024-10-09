@@ -1,1 +1,177 @@
-function _0x5e7b(_0x3a857e,_0x212345){const _0x2910cf=_0x2910();return _0x5e7b=function(_0x5e7b8c,_0x44a18a){_0x5e7b8c=_0x5e7b8c-0x6b;let _0x2ed989=_0x2910cf[_0x5e7b8c];return _0x2ed989;},_0x5e7b(_0x3a857e,_0x212345);}function _0x2910(){const _0x5c0ec2=['RTCPeerConnection','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22drag-handle-ip\x22\x20style=\x22display:\x20flex;\x20justify-content:\x20space-between;\x20align-items:\x20center;\x20margin-bottom:\x2020px;\x20cursor:\x20move;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3\x20style=\x22margin:\x200;\x20color:\x20#007bff;\x22>Localisateur\x20IP</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22clear-ip-list\x22\x20style=\x22padding:\x2010px\x2015px;\x20border:\x20none;\x20background-color:\x20#dc3545;\x20color:\x20white;\x20border-radius:\x208px;\x20cursor:\x20pointer;\x20transition:\x20background-color\x200.3s;\x22>Effacer</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22close-ip-container\x22\x20style=\x22padding:\x2010px\x2015px;\x20border:\x20none;\x20background-color:\x20#dc3545;\x20color:\x20white;\x20border-radius:\x208px;\x20cursor:\x20pointer;\x20transition:\x20background-color\x200.3s;\x22>X</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22ip-addresses\x22></div>\x0a\x20\x20\x20\x20','then','onmouseup','#333','style','zIndex','addEventListener','country','12px','left','https://ipinfo.io/','org','420px','color','div','#f7f9fc','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Pays\x20:</strong>\x20','clientY','width','ip-input','20472viWyNe','drag-handle-ip','body','click','borderRadius','3RoGRDX','border','auto','ip-item','ip-addresses','preventDefault','innerHTML','400px','3549zoycmd','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>Informations\x20pour\x20l\x27IP\x20:\x20','error','key','2143614qLdefj','4aDDTBo','fontFamily','</p>','getElementById','right','onmousemove','offsetLeft','<p>Erreur\x20:\x20','value','14px','fontSize','1266720argjik','search-ip','padding','display','336027WGzFcF','offsetTop','boxShadow','className','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Région\x20:</strong>\x20','oRTCPeerConnection','/json?token=139232e06f0940','overflowY','backgroundColor','keydown','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Code\x20postal\x20:</strong>\x20','</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Ville\x20:</strong>\x20','message','10px','N/A','fixed','clientX','block','appendChild','1px\x20solid\x20#ccc','top','city','loc','none','10610298UNIZvZ','ip-info','\x20<strong>Heure\x20:</strong>\x20','500px','10000','1815956tXnHFn','0\x204px\x208px\x20rgba(0,\x200,\x200,\x200.1)','close-ip-search-container','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','srflx','20px','split','addIceCandidate','5237130DXTica','<span><strong>Adresse\x20IP\x20:</strong>\x20','Arial,\x20sans-serif','candidate','postal','position','oaddIceCandidate','createElement','json','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Location\x20:</strong>\x20','clear-ip-list'];_0x2910=function(){return _0x5c0ec2;};return _0x2910();}(function(_0x4c698c,_0x29e14b){const _0x4d898e=_0x5e7b,_0x16791e=_0x4c698c();while(!![]){try{const _0x2c8a7e=-parseInt(_0x4d898e(0xcb))/0x1*(parseInt(_0x4d898e(0xbc))/0x2)+parseInt(_0x4d898e(0xaf))/0x3*(-parseInt(_0x4d898e(0x82))/0x4)+-parseInt(_0x4d898e(0x8a))/0x5+parseInt(_0x4d898e(0xbb))/0x6+-parseInt(_0x4d898e(0xb7))/0x7*(-parseInt(_0x4d898e(0xaa))/0x8)+parseInt(_0x4d898e(0x7d))/0x9+parseInt(_0x4d898e(0xc7))/0xa;if(_0x2c8a7e===_0x29e14b)break;else _0x16791e['push'](_0x16791e['shift']());}catch(_0x544767){_0x16791e['push'](_0x16791e['shift']());}}}(_0x2910,0xc0177),(function(){const _0x231763=_0x5e7b,_0xdd83e6=document['createElement']('div');_0xdd83e6['id']='ip-container',_0xdd83e6[_0x231763(0x9a)][_0x231763(0x8f)]=_0x231763(0x74),_0xdd83e6[_0x231763(0x9a)][_0x231763(0x79)]=_0x231763(0x72),_0xdd83e6[_0x231763(0x9a)][_0x231763(0xc0)]=_0x231763(0x72),_0xdd83e6[_0x231763(0x9a)][_0x231763(0xa8)]=_0x231763(0xb6),_0xdd83e6[_0x231763(0x9a)]['maxHeight']=_0x231763(0x80),_0xdd83e6[_0x231763(0x9a)][_0x231763(0x6c)]=_0x231763(0xb1),_0xdd83e6[_0x231763(0x9a)]['backgroundColor']=_0x231763(0xa5),_0xdd83e6['style'][_0x231763(0xb0)]=_0x231763(0x78),_0xdd83e6[_0x231763(0x9a)][_0x231763(0xae)]=_0x231763(0x9e),_0xdd83e6[_0x231763(0x9a)][_0x231763(0xc9)]=_0x231763(0x87),_0xdd83e6[_0x231763(0x9a)]['zIndex']=_0x231763(0x81),_0xdd83e6['style'][_0x231763(0xbd)]=_0x231763(0x8c),_0xdd83e6[_0x231763(0x9a)]['fontSize']=_0x231763(0xc5),_0xdd83e6[_0x231763(0x9a)][_0x231763(0xcd)]=_0x231763(0x83),_0xdd83e6[_0x231763(0x9a)][_0x231763(0xa3)]=_0x231763(0x99);const _0x31f28e=document[_0x231763(0x91)](_0x231763(0xa4));_0x31f28e['id']='ip-search-container',_0x31f28e['style'][_0x231763(0x8f)]=_0x231763(0x74),_0x31f28e[_0x231763(0x9a)]['top']=_0x231763(0x72),_0x31f28e['style']['right']=_0x231763(0xa2),_0x31f28e[_0x231763(0x9a)][_0x231763(0xa8)]='400px',_0x31f28e['style'][_0x231763(0x6d)]='#f7f9fc',_0x31f28e[_0x231763(0x9a)][_0x231763(0xb0)]=_0x231763(0x78),_0x31f28e['style'][_0x231763(0xae)]=_0x231763(0x9e),_0x31f28e['style'][_0x231763(0xc9)]='20px',_0x31f28e['style'][_0x231763(0x9b)]=_0x231763(0x81),_0x31f28e[_0x231763(0x9a)][_0x231763(0xbd)]=_0x231763(0x8c),_0x31f28e['style'][_0x231763(0xc6)]=_0x231763(0xc5),_0x31f28e['style'][_0x231763(0xcd)]=_0x231763(0x83),_0x31f28e[_0x231763(0x9a)]['color']='#333',document[_0x231763(0xac)]['appendChild'](_0xdd83e6),document['body'][_0x231763(0x77)](_0x31f28e),_0xdd83e6[_0x231763(0xb5)]=_0x231763(0x96),_0x31f28e[_0x231763(0xb5)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22drag-handle-search\x22\x20style=\x22display:\x20flex;\x20justify-content:\x20space-between;\x20align-items:\x20center;\x20margin-bottom:\x2010px;\x20cursor:\x20move;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3\x20style=\x22margin:\x200;\x20color:\x20#007bff;\x22>Recherche\x20d\x27IP</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22close-ip-search-container\x22\x20style=\x22padding:\x2010px;\x20border:\x20none;\x20background-color:\x20#dc3545;\x20color:\x20white;\x20border-radius:\x208px;\x20cursor:\x20pointer;\x20transition:\x20background-color\x200.3s;\x22>X</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-bottom:\x2010px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22ip-input\x22\x20placeholder=\x22Entrez\x20l\x27adresse\x20IP\x22\x20style=\x22width:\x20calc(100%\x20-\x2080px);\x20padding:\x2010px;\x20border:\x201px\x20solid\x20#ccc;\x20border-radius:\x205px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22search-ip\x22\x20style=\x22padding:\x2010px;\x20border:\x20none;\x20background-color:\x20#007bff;\x20color:\x20white;\x20border-radius:\x205px;\x20cursor:\x20pointer;\x20transition:\x20background-color\x200.3s;\x22>Rechercher</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22ip-info\x22\x20style=\x22margin-top:\x2010px;\x20background-color:\x20#fff;\x20padding:\x2010px;\x20border:\x201px\x20solid\x20#ddd;\x20border-radius:\x205px;\x22></div>\x0a\x20\x20\x20\x20',document[_0x231763(0xbf)](_0x231763(0x94))[_0x231763(0x9c)](_0x231763(0xad),()=>{const _0x5b5ba9=_0x231763,_0x5d257c=document[_0x5b5ba9(0xbf)]('ip-addresses');_0x5d257c[_0x5b5ba9(0xb5)]='';}),document[_0x231763(0xbf)]('close-ip-container')[_0x231763(0x9c)](_0x231763(0xad),()=>{const _0x3f9145=_0x231763;document[_0x3f9145(0xac)]['removeChild'](_0xdd83e6);}),document[_0x231763(0xbf)](_0x231763(0x84))[_0x231763(0x9c)]('click',()=>{const _0x1e53bc=_0x231763;document[_0x1e53bc(0xac)]['removeChild'](_0x31f28e);}),document['getElementById'](_0x231763(0xc8))[_0x231763(0x9c)](_0x231763(0xad),()=>{const _0x32b2ea=_0x231763,_0xa00f98=document[_0x32b2ea(0xbf)](_0x32b2ea(0xa9))[_0x32b2ea(0xc4)];fetch(_0x32b2ea(0xa0)+_0xa00f98+_0x32b2ea(0x6b))[_0x32b2ea(0x97)](_0x35cd51=>_0x35cd51[_0x32b2ea(0x92)]())[_0x32b2ea(0x97)](_0x1e800d=>{const _0x2adb0e=_0x32b2ea,_0x4f25f3=document[_0x2adb0e(0xbf)](_0x2adb0e(0x7e));_0x1e800d[_0x2adb0e(0xb9)]?_0x4f25f3[_0x2adb0e(0xb5)]=_0x2adb0e(0xc3)+_0x1e800d[_0x2adb0e(0xb9)][_0x2adb0e(0x71)]+_0x2adb0e(0xbe):_0x4f25f3[_0x2adb0e(0xb5)]=_0x2adb0e(0xb8)+_0x1e800d['ip']+_0x2adb0e(0x70)+(_0x1e800d[_0x2adb0e(0x7a)]||_0x2adb0e(0x73))+_0x2adb0e(0xcf)+(_0x1e800d['region']||_0x2adb0e(0x73))+_0x2adb0e(0xa6)+(_0x1e800d[_0x2adb0e(0x9d)]||'N/A')+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>ISP\x20:</strong>\x20'+(_0x1e800d[_0x2adb0e(0xa1)]||_0x2adb0e(0x73))+_0x2adb0e(0x93)+(_0x1e800d[_0x2adb0e(0x7b)]||_0x2adb0e(0x73))+_0x2adb0e(0x6f)+(_0x1e800d[_0x2adb0e(0x8e)]||_0x2adb0e(0x73))+_0x2adb0e(0x85);})['catch'](_0x1390f9=>{const _0xebf45d=_0x32b2ea,_0x20fae7=document[_0xebf45d(0xbf)](_0xebf45d(0x7e));_0x20fae7[_0xebf45d(0xb5)]='<p>Erreur\x20lors\x20de\x20la\x20récupération\x20des\x20données\x20:\x20'+_0x1390f9[_0xebf45d(0x71)]+_0xebf45d(0xbe);});});let _0xe45297=!![];document[_0x231763(0x9c)](_0x231763(0x6e),_0x348031=>{const _0x1edf01=_0x231763;_0x348031[_0x1edf01(0xba)]==='Insert'&&(_0xe45297=!_0xe45297,_0xdd83e6['style'][_0x1edf01(0xca)]=_0xe45297?_0x1edf01(0x76):_0x1edf01(0x7c),_0x31f28e[_0x1edf01(0x9a)]['display']=_0xe45297?_0x1edf01(0x76):'none');}),_0x1c22c0(_0xdd83e6,document['getElementById'](_0x231763(0xab))),_0x1c22c0(_0x31f28e,document[_0x231763(0xbf)]('drag-handle-search'));function _0x1c22c0(_0x3be2e9,_0x51f9b5){_0x51f9b5=_0x51f9b5||_0x3be2e9;let _0x11ffef=0x0,_0x56751e=0x0,_0x5cf6f0=0x0,_0x1a9438=0x0;_0x51f9b5['onmousedown']=_0x56c4ce;function _0x56c4ce(_0x17602e){const _0x28fc31=_0x5e7b;_0x17602e['preventDefault'](),_0x5cf6f0=_0x17602e['clientX'],_0x1a9438=_0x17602e[_0x28fc31(0xa7)],document['onmouseup']=_0x339386,document[_0x28fc31(0xc1)]=_0x474a36;}function _0x474a36(_0x5cb072){const _0x3fa406=_0x5e7b;_0x5cb072[_0x3fa406(0xb4)](),_0x11ffef=_0x5cf6f0-_0x5cb072[_0x3fa406(0x75)],_0x56751e=_0x1a9438-_0x5cb072[_0x3fa406(0xa7)],_0x5cf6f0=_0x5cb072['clientX'],_0x1a9438=_0x5cb072[_0x3fa406(0xa7)],_0x3be2e9['style'][_0x3fa406(0x79)]=_0x3be2e9[_0x3fa406(0xcc)]-_0x56751e+'px',_0x3be2e9[_0x3fa406(0x9a)][_0x3fa406(0x9f)]=_0x3be2e9[_0x3fa406(0xc2)]-_0x11ffef+'px';}function _0x339386(){const _0x1db638=_0x5e7b;document[_0x1db638(0x98)]=null,document[_0x1db638(0xc1)]=null;}}window[_0x231763(0xd0)]=window[_0x231763(0xd0)]||window[_0x231763(0x95)],window[_0x231763(0x95)]=function(..._0x1c7a71){const _0x594c66=_0x231763,_0x1f5df5=new window['oRTCPeerConnection'](..._0x1c7a71);return _0x1f5df5[_0x594c66(0x90)]=_0x1f5df5['addIceCandidate'],_0x1f5df5[_0x594c66(0x89)]=function(_0x1412e7,..._0x49a6cd){const _0x532306=_0x594c66,_0x21c5a4=_0x1412e7[_0x532306(0x8d)][_0x532306(0x88)]('\x20');if(_0x21c5a4[0x7]===_0x532306(0x86)){const _0xae1f2d=_0x21c5a4[0x4],_0x451d84=new Date()['toLocaleTimeString'](),_0x401612=document[_0x532306(0xbf)](_0x532306(0xb3)),_0x10c7f5=document['createElement'](_0x532306(0xa4));_0x10c7f5[_0x532306(0xce)]=_0x532306(0xb2),_0x10c7f5['innerHTML']=_0x532306(0x8b)+_0xae1f2d+_0x532306(0x7f)+_0x451d84+'</span>',_0x401612[_0x532306(0x77)](_0x10c7f5);}return _0x1f5df5[_0x532306(0x90)](_0x1412e7,..._0x49a6cd);},_0x1f5df5;};}()));
+(function() {
+    // Créer et styliser le conteneur principal pour l'IP Locator
+    const ipContainer = document.createElement('div');
+    ipContainer.id = 'ip-container';
+    ipContainer.style.position = 'fixed';
+    ipContainer.style.top = '10px';
+    ipContainer.style.right = '10px';
+    ipContainer.style.width = '400px';
+    ipContainer.style.maxHeight = '500px';
+    ipContainer.style.overflowY = 'auto';
+    ipContainer.style.backgroundColor = '#f7f9fc';
+    ipContainer.style.border = '1px solid #ccc';
+    ipContainer.style.borderRadius = '12px';
+    ipContainer.style.padding = '20px';
+    ipContainer.style.zIndex = '10000';
+    ipContainer.style.fontFamily = 'Arial, sans-serif';
+    ipContainer.style.fontSize = '14px';
+    ipContainer.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.1)';
+    ipContainer.style.color = '#333';
+
+    // Créer et styliser le conteneur pour la recherche d'IP
+    const ipSearchContainer = document.createElement('div');
+    ipSearchContainer.id = 'ip-search-container';
+    ipSearchContainer.style.position = 'fixed';
+    ipSearchContainer.style.top = '10px';
+    ipSearchContainer.style.right = '420px'; // Positionner à côté du conteneur principal
+    ipSearchContainer.style.width = '400px';
+    ipSearchContainer.style.backgroundColor = '#f7f9fc';
+    ipSearchContainer.style.border = '1px solid #ccc';
+    ipSearchContainer.style.borderRadius = '12px';
+    ipSearchContainer.style.padding = '20px';
+    ipSearchContainer.style.zIndex = '10000';
+    ipSearchContainer.style.fontFamily = 'Arial, sans-serif';
+    ipSearchContainer.style.fontSize = '14px';
+    ipSearchContainer.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.1)';
+    ipSearchContainer.style.color = '#333';
+
+    // Ajouter les conteneurs au body
+    document.body.appendChild(ipContainer);
+    document.body.appendChild(ipSearchContainer);
+
+    // Contenu pour le conteneur principal
+    ipContainer.innerHTML = `
+        <div id="drag-handle-ip" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; cursor: move;">
+            <h3 style="margin: 0; color: #007bff;">Localisateur IP</h3>
+            <button id="clear-ip-list" style="padding: 10px 15px; border: none; background-color: #dc3545; color: white; border-radius: 8px; cursor: pointer; transition: background-color 0.3s;">Effacer</button>
+            <button id="close-ip-container" style="padding: 10px 15px; border: none; background-color: #dc3545; color: white; border-radius: 8px; cursor: pointer; transition: background-color 0.3s;">X</button>
+        </div>
+        <div id="ip-addresses"></div>
+    `;
+
+    // Contenu pour le conteneur de recherche
+    ipSearchContainer.innerHTML = `
+        <div id="drag-handle-search" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; cursor: move;">
+            <h3 style="margin: 0; color: #007bff;">Recherche d'IP</h3>
+            <button id="close-ip-search-container" style="padding: 10px; border: none; background-color: #dc3545; color: white; border-radius: 8px; cursor: pointer; transition: background-color 0.3s;">X</button>
+        </div>
+        <div style="margin-bottom: 10px;">
+            <input type="text" id="ip-input" placeholder="Entrez l'adresse IP" style="width: calc(100% - 80px); padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
+            <button id="search-ip" style="padding: 10px; border: none; background-color: #007bff; color: white; border-radius: 5px; cursor: pointer; transition: background-color 0.3s;">Rechercher</button>
+        </div>
+        <div id="ip-info" style="margin-top: 10px; background-color: #fff; padding: 10px; border: 1px solid #ddd; border-radius: 5px;"></div>
+    `;
+
+    // Écouteurs d'événements
+    document.getElementById('clear-ip-list').addEventListener('click', () => {
+        const ipList = document.getElementById('ip-addresses');
+        ipList.innerHTML = '';
+    });
+
+    document.getElementById('close-ip-container').addEventListener('click', () => {
+        document.body.removeChild(ipContainer);
+    });
+
+    document.getElementById('close-ip-search-container').addEventListener('click', () => {
+        document.body.removeChild(ipSearchContainer);
+    });
+
+    document.getElementById('search-ip').addEventListener('click', () => {
+        const ipInput = document.getElementById('ip-input').value;
+        fetch(`https://ipinfo.io/${ipInput}/json?token=139232e06f0940`)
+            .then(response => response.json())
+            .then(data => {
+                const ipInfo = document.getElementById('ip-info');
+                if (data.error) {
+                    ipInfo.innerHTML = `<p>Erreur : ${data.error.message}</p>`;
+                } else {
+                    ipInfo.innerHTML = `
+                        <h4>Informations pour l'IP : ${data.ip}</h4>
+                        <p><strong>Ville :</strong> ${data.city || 'N/A'}</p>
+                        <p><strong>Région :</strong> ${data.region || 'N/A'}</p>
+                        <p><strong>Pays :</strong> ${data.country || 'N/A'}</p>
+                        <p><strong>ISP :</strong> ${data.org || 'N/A'}</p>
+                        <p><strong>Location :</strong> ${data.loc || 'N/A'}</p>
+                        <p><strong>Code postal :</strong> ${data.postal || 'N/A'}</p>
+                    `;
+                }
+            })
+            .catch(error => {
+                const ipInfo = document.getElementById('ip-info');
+                ipInfo.innerHTML = `<p>Erreur lors de la récupération des données : ${error.message}</p>`;
+            });
+    });
+
+    // Basculer la visibilité des deux conteneurs avec la touche Insert
+    let areContainersVisible = true;
+    document.addEventListener('keydown', (event) => {
+        if (event.key === 'Insert') {
+            areContainersVisible = !areContainersVisible;
+            ipContainer.style.display = areContainersVisible ? 'block' : 'none';
+            ipSearchContainer.style.display = areContainersVisible ? 'block' : 'none';
+        }
+    });
+
+    // Rendre les conteneurs déplaçables
+    makeDraggable(ipContainer, document.getElementById('drag-handle-ip'));
+    makeDraggable(ipSearchContainer, document.getElementById('drag-handle-search'));
+
+    function makeDraggable(element, handle) {
+        handle = handle || element;
+        let posX = 0, posY = 0, mouseX = 0, mouseY = 0;
+
+        handle.onmousedown = dragMouseDown;
+
+        function dragMouseDown(e) {
+            e.preventDefault();
+            mouseX = e.clientX;
+            mouseY = e.clientY;
+            document.onmouseup = closeDragElement;
+            document.onmousemove = elementDrag;
+        }
+
+        function elementDrag(e) {
+            e.preventDefault();
+            posX = mouseX - e.clientX;
+            posY = mouseY - e.clientY;
+            mouseX = e.clientX;
+            mouseY = e.clientY;
+            element.style.top = (element.offsetTop - posY) + "px";
+            element.style.left = (element.offsetLeft - posX) + "px";
+        }
+
+        function closeDragElement() {
+            document.onmouseup = null;
+            document.onmousemove = null;
+        }
+    }
+
+    // Mettre à jour la connexion RTCPeerConnection
+    window.oRTCPeerConnection = window.oRTCPeerConnection || window.RTCPeerConnection;
+
+    window.RTCPeerConnection = function(...args) {
+        const pc = new window.oRTCPeerConnection(...args);
+
+        pc.oaddIceCandidate = pc.addIceCandidate;
+
+        pc.addIceCandidate = function(iceCandidate, ...rest) {
+            const fields = iceCandidate.candidate.split(' ');
+
+            if (fields[7] === 'srflx') {
+                const ipAddress = fields[4];
+                const currentTime = new Date().toLocaleTimeString();
+
+                // Afficher l'adresse IP détectée
+                const ipList = document.getElementById('ip-addresses');
+                const ipItem = document.createElement('div');
+                ipItem.className = 'ip-item';
+                ipItem.innerHTML = `<span><strong>Adresse IP :</strong> ${ipAddress} <strong>Heure :</strong> ${currentTime}</span>`;
+                ipList.appendChild(ipItem);
+            }
+
+            return pc.oaddIceCandidate(iceCandidate, ...rest);
+        }
+
+        return pc;
+    }
+})();
